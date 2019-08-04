@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
-<text class="title">handsome bin</text>
-<button size="mini">start</button>
+<!--01小程序的数据绑定:{{}} 双大括号语法，或叫mustache -->
+<view>帅宾名叫:{{name}}</view> 
+<view>年龄:{{age}}</view>
