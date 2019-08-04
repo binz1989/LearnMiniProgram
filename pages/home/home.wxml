@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="title">handsome bin</text>
+<button size="mini">start</button>
